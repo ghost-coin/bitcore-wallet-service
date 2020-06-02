@@ -66,13 +66,13 @@ var config = {
     part: {
       livenet: {
         provider: 'insight',
-        url: 'https://explorer.particl.io:443',
-        apiPrefix: '/particl-insight-api'
+        url: 'https://explorer.ghostbymcafee.com:443',
+        apiPrefix: '/ghost-insight-api'
       },
       testnet: {
         provider: 'insight',
-        url: 'https://explorer-testnet.particl.io:443',
-        apiPrefix: '/particl-insight-api'
+        url: 'https://explorer-testnet.ghostbymcafee.com:443',
+        apiPrefix: '/ghost-insight-api'
       },
     },
   },

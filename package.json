@@ -39,7 +39,7 @@
     "morgan": "^1.9.1",
     "mustache": "^2.1.0",
     "npmlog": "^0.1.1",
-    "particl-bitcore-lib": "git://github.com/particl/particl-bitcore-lib.git",
+    "ghost-bitcore-lib": "git://github.com/ghost-coin/ghost-bitcore-lib.git",
     "preconditions": "^2.2.1",
     "read": "^1.0.5",
     "request": "^2.53.0",
